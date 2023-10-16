@@ -1,3 +1,12 @@
+/* Vladyslav Yakubovskyi,
+ * Lviv Polytechnic National University, Institute of Computer Science and Information Technologies,
+ * Department of Information Systems and Networks, "PI-21" Student group,
+ * Discipline "Applied Programming",
+ * Laboratory work #03,
+ * Task #03,
+ * "program" package,
+ * "Product.java" file */
+
 package program;
 
 import java.io.Serializable;
